@@ -1,5 +1,5 @@
 # Tcp_files_transfer
-Many clients to a server, transfer all files in a content(auto traverse) to client based on TCP socket.
+Many clients to a server, transfer all files in a content (auto traverse) to client based on TCP socket.
 - for file_client.c:
 The main's arg is the ip address of server.
 - for file_server.c:
