@@ -5,4 +5,5 @@ The main's arg is the ip address of server.
 - for client_recv folder(clientB): recive files in this directory. 
 The main's arg is the ip address of server.
 - for server folder(server): transit and show clients and files' log.(NO files saved in server.)
+
 Before transfer, RUN SERVER FIRST.
